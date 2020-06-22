@@ -2,4 +2,4 @@ Este es un archivo de prueba
 
 para el curso de 
 
-git de etc
+git de etc y bla bla
